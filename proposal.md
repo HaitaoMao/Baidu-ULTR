@@ -20,6 +20,6 @@ Runner-up: One team ($1000)
 
 # Grand Challenge Contacts
 
-Zhang Zheng (zanezhang@qiyi.com)
+Lixin Zou (zoulixin15@gmail.com)
 
-Shi Song (shisong01@qiyi.com)
+Haitao Mao ()
