@@ -23,5 +23,5 @@ Runner-up: One team ($1000)
 # Grand Challenge Contacts
 
 - Lixin Zou (zoulixin15@gmail.com)
-- Haitao Mao ()
+- Haitao Mao (haitaoma@msu.edu)
 - Shuaiqiang Wang
