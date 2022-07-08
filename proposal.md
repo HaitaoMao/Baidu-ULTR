@@ -11,29 +11,41 @@ Baidu is the bigest Chinese search engine, with nearly 8 billion hours spent on 
 
 # Task Description & Data
 - Metric
- - The following evaluation metric is employed to assess the performance of the ranking system. The Discounted Cumulative Gain (DCG) is a standard listwise accuracy metric and is widely adopted in the context of ad-hoc retrieval. For a ranked list of N documents, we use the following implementation of DCG: $DCG@N = \sum_{i=1}^N \frac{G_i}{\log_2(i+1)}$, where $G_i$ represents the weight assigned to the document’s label at position $i$. A higher degree of relevance corresponds to a higher weight. We use the symbol DCG to indicate the average value of
-this metric over the test queries. DCG will be reported only when absolute relevance judgments are available.
+
+  - The following evaluation metric is employed to assess the performance of the ranking system. The Discounted Cumulative Gain (DCG) is a standard listwise accuracy metric and is widely adopted in the context of ad-hoc retrieval. For a ranked list of N documents, we use the following implementation of DCG: 
+   $DCG@N = \sum_{i=1}^N \frac{G_i}{\log_2(i+1)}$
+   where $G_i$ represents the weight assigned to the document’s label at position $i$. A higher degree of relevance corresponds to a higher weight. We use the symbol DCG to indicate the average value of this metric over the test queries. DCG will be reported only when absolute relevance judgments are available.
 
 - Unbiased Learning to Rank
-- 
+ 
+ For unbiased learning to rank, 
+ 
 
 - Pre-training for Web Search
+ 
+ For pre-training, 
 
 - Dataset 
- - 
+ - The dataset is aviable at .
 
+# Tool
 
 
 # Timeline
 
 # Prizes:  
 - Champion: One team ($2000) 
+
 - Runner-up: One team ($1000) 
+
 - 3rd-place: One team ($500)
  
 
 # Grand Challenge Contacts
 
 - Lixin Zou (zoulixin15@gmail.com)
-- Haitao Mao ()
+- Haitao Mao 
+- Xiaochai Chu
+- Changying Hao
 - Shuaiqiang Wang
+- Dawei Yin
