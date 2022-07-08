@@ -74,17 +74,16 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
   For unbiased learning to rank task, you are required to train a ranking model with the Large Scale Web Search Session Data. However, **the Expert Annotation Dataset and extra datasets are not allowed for training the ranking model**. 
 
 ## Pre-training for Web Search
- For pre-training for web search task, you are required to pre-train a PLM with the Large Scale Web Search Session Data and finetune the PLM with **the Expert Annotation Dataset**.  
- Here is the [PLM](https://github.com/ChuXiaokai/baidu_ultr_dataset) for reference.
+ For pre-training for web search task, you are required to pre-train a PLM with the Large Scale Web Search Session Data and finetune the PLM with **the Expert Annotation Dataset**~(Here is the [PLM](https://github.com/ChuXiaokai/baidu_ultr_dataset) for reference).
 
 ## Metric
   The following evaluation metric is employed to assess the performance of the ranking system. The Discounted Cumulative Gain (DCG) is a standard listwise accuracy metric and is widely adopted in the context of ad-hoc retrieval. For a ranked list of N documents, we use the following implementation of DCG: 
    $DCG@N = \sum_{i=1}^N \frac{G_i}{\log_2(i+1)}$
    where $G_i$ represents the weight assigned to the document’s label at position $i$. A higher degree of relevance corresponds to a higher weight. We use the symbol DCG to indicate the average value of this metric over the test queries. DCG will be reported only when absolute relevance judgments are available. Particularly, we employ the DCG@4 as the final metrics since the top-4 results are firstly presented to users.
 
-
-
 # Timeline
+
+
 
 # Prizes:  
 - Unbiased Learning to Rank
