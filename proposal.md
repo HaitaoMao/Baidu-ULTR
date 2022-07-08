@@ -1,14 +1,16 @@
 # Challenge Introduction
 
 
-# Task Description & Data
+
+
+# Task Description
 
 - Unbiased Learning to Rank
 
 - Pre-training for Web Search
 
 
-# Evaluation Metrics
+# Data & Evaluation Metrics
 
 
 
