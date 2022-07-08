@@ -34,12 +34,21 @@ Baidu is the bigest Chinese search engine, with nearly 8 billion hours spent on 
 # Timeline
 
 # Prizes:  
-- Champion: One team ($2000) 
+- Unbiased Learning to Rank
+  
+  - Champion: One team ($2000) 
 
-- Runner-up: One team ($1000) 
+  - Runner-up: One team ($1000) 
 
-- 3rd-place: One team ($500)
- 
+  - 3rd-place: One team ($500)
+  
+- Pre-training for Web Search 
+
+  - Champion: One team ($2000) 
+
+  - Runner-up: One team ($1000) 
+
+  - 3rd-place: One team ($500)
 
 # Grand Challenge Contacts
 
