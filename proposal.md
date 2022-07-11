@@ -71,10 +71,10 @@ The Schema of the [nips_annotation_data_0522.txt](https://drive.google.com/file/
 
 The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9WvLVoDu-_uqLNjF5gtBe2g/view?usp=sharing) is a unigram set that records the high-frequency words using the desensitization token id.
 
-## Unbiased Learning to Rank
+## TASK-1: Unbiased Learning to Rank
   For the unbiased learning to rank task, you are required to train a ranking model with the Large Scale Web Search Session Data. However, **the Expert Annotation Dataset and extra datasets are not allowed for training the ranking model**. 
 
-## Pre-training for Web Search
+## TASK-2: Pre-training for Web Search
  For pre-training for web search task, you are required to pre-train a PLM with the Large Scale Web Search Session Data and finetune the PLM with **the Expert Annotation Dataset**~(Here is the [PLM](https://github.com/ChuXiaokai/baidu_ultr_dataset) for reference).
 
 ## Metric
@@ -100,7 +100,7 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
 
 
 # Prizes:  
-- Unbiased Learning to Rank
+- TASK-1: Unbiased Learning to Rank
   
   - Champion: One team ($2000) 
 
@@ -108,7 +108,7 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
 
   - 3rd-place: One team ($500)
   
-- Pre-training for Web Search 
+- TASK-2: Pre-training for Web Search 
 
   - Champion: One team ($2000) 
 
