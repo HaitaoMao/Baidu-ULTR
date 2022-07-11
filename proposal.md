@@ -120,7 +120,7 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
 
 - Lixin Zou (zoulixin15@gmail.com)
 - Haitao Mao (haitaoma@msu.edu)
-- Xiaochai Chu (chuxiaokai@ict.ac.cn)
+- Xiaochai Chu (xiaokaichu@gmail.com)
 - Changying Hao (cyhaocn@gmail.com)
 - Shuaiqiang Wang (shqiang.wang@gmail.com)
 - Dawei Yin (yindawei@acm.org)
