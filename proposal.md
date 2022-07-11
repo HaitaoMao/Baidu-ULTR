@@ -119,8 +119,8 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
 # Grand Challenge Contacts
 
 - Lixin Zou (zoulixin15@gmail.com)
-- Haitao Mao 
-- Xiaochai Chu
-- Changying Hao
-- Shuaiqiang Wang
-- Dawei Yin
+- Haitao Mao (haitaoma@msu.edu)
+- Xiaochai Chu (chuxiaokai@ict.ac.cn)
+- Changying Hao (cyhaocn@gmail.com)
+- Shuaiqiang Wang (shqiang.wang@gmail.com)
+- Dawei Yin (yindawei@acm.org)
