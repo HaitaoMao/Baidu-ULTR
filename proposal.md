@@ -88,14 +88,17 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
 |:---|:---|
 |Oct 15, 2022|	Website ready and training set available for download.|
 |Nov 11 2022|	Intermediate test set release and intermediate submission starts.|
-|Dec 11 2022| Dec 20 2021	Intermediate submission ends.|
-|Dec 16 2022| Dec 22 2021	Intermediate leaderboard result announcement.|
-|Dec 17 2022| Dec 23 2021	Final test set release and final submission starts.|
+|Dec 11 2022| Dec 20 2022	Intermediate submission ends.|
+|Dec 16 2022| Dec 22 2022	Intermediate leaderboard result announcement.|
+|Dec 17 2022| Dec 23 2022	Final test set release and final submission starts.|
 |Jan 20 2023|	Final submission ends.|
 |Jan 24 2023|	Final leaderboard result announcement.|
-|Jan 25 2023| Invitations to top 6 teams for short papers.|
+|Jan 25 2023| Invitations to top 6 teams on each sub-task for short papers.|
 |Feb 15 2023|	Short paper deadline.|
-|Feb 21-25 2023|	WSDM Cup conference presentation.|
+|Feb 27-March 3 2023|	WSDM Cup conference presentation in person for top 3 teams on each sub-task.|
+
+In the first itermediate submission priod, only a subset of test set is provided for test, each team can submit results three times a day.
+In the second submission priod, the entire test set is provided for test, each team can submit results once a day.
 
 
 
@@ -115,6 +118,8 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
   - Runner-up: One team ($1000) 
 
   - 3rd-place: One team ($500)
+
+For those top 3 teams, we will sponsor for one conference registration each team.
 
 # Grand Challenge Contacts
 
