@@ -88,9 +88,9 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
 |:---|:---|
 |Oct 15, 2022|	Website ready and training set available for download.|
 |Nov 11 2022|	Intermediate test set release and intermediate submission starts.|
-|Dec 11 2022| Dec 20 2022	Intermediate submission ends.|
-|Dec 16 2022| Dec 22 2022	Intermediate leaderboard result announcement.|
-|Dec 17 2022| Dec 23 2022	Final test set release and final submission starts.|
+|Dec 11 2022| Intermediate submission ends.|
+|Dec 16 2022| Intermediate leaderboard result announcement.|
+|Dec 17 2022| Final test set release and final submission starts.|
 |Jan 20 2023|	Final submission ends.|
 |Jan 24 2023|	Final leaderboard result announcement.|
 |Jan 25 2023| Invitations to top 6 teams on each sub-task for short papers.|
