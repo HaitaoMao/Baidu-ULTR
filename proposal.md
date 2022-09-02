@@ -129,3 +129,4 @@ For those top 3 teams, we will sponsor for one conference registration each team
 - Changying Hao (cyhaocn@gmail.com)
 - Shuaiqiang Wang (shqiang.wang@gmail.com)
 - Dawei Yin (yindawei@acm.org)
+- Jiliang Tang(tangjili@msu.edu)
