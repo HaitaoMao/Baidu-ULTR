@@ -123,10 +123,10 @@ For those top 3 teams, we will sponsor for one conference registration each team
 
 # Grand Challenge Contacts
 
-- Lixin Zou (zoulixin15@gmail.com)
-- Haitao Mao (haitaoma@msu.edu)
-- Xiaochai Chu (xiaokaichu@gmail.com)
-- Changying Hao (cyhaocn@gmail.com)
-- Shuaiqiang Wang (shqiang.wang@gmail.com)
-- Dawei Yin (yindawei@acm.org)
-- Jiliang Tang(tangjili@msu.edu)
+- Lixin Zou, Baidu Inc.. (zoulixin02@baidu.com)
+- Haitao Mao, Michigan State University. (haitaoma@msu.edu)
+- Xiaochai Chu, Institute of Computing Technology, Chinese Academy of Sciences. (xiaokaichu@gmail.com)
+- Changying Hao, Baidu Inc.. (haochangying@baidu.com)
+- Shuaiqiang Wang, Baidu Inc.. (wangshuaiqiang@baidu.com)
+- Dawei Yin, Baidu Inc.. (yindawei02@baidu.com)
+- Jiliang Tang, Michigan State University.(tangjili@msu.edu)
