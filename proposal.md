@@ -125,7 +125,6 @@ For those top 3 teams, we will sponsor for one conference registration each team
 
 - Lixin Zou, Baidu Inc.. (zoulixin02@baidu.com)
 - Haitao Mao, Michigan State University. (haitaoma@msu.edu)
-- Xiaochai Chu, Institute of Computing Technology, Chinese Academy of Sciences. (xiaokaichu@gmail.com)
 - Changying Hao, Baidu Inc.. (haochangying@baidu.com)
 - Shuaiqiang Wang, Baidu Inc.. (wangshuaiqiang@baidu.com)
 - Dawei Yin, Baidu Inc.. (yindawei02@baidu.com)
