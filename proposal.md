@@ -87,12 +87,12 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
 |Event|Complete Date|
 |:---|:---|
 |Oct 15, 2022|	Website ready and training set available for download.|
-|Nov 11 2022|	Intermediate test set release and intermediate submission starts.|
-|Dec 11 2022| Intermediate submission ends.|
-|Dec 16 2022| Intermediate leaderboard result announcement.|
-|Dec 17 2022| Final test set release and final submission starts.|
-|Jan 20 2023|	Final submission ends.|
-|Jan 24 2023|	Final leaderboard result announcement.|
+|Nov 1 2022|	Intermediate test set release and intermediate submission starts.|
+|Dec 1 2022| Intermediate submission ends.|
+|Dec 2 2022| Intermediate leaderboard result announcement.|
+|Dec 7 2022| Final test set release and final submission starts.|
+|Jan 10 2023|	Final submission ends.|
+|Jan 15 2023|	Final leaderboard result announcement.|
 |Jan 25 2023| Invitations to top 6 teams on each sub-task for short papers.|
 |Feb 15 2023|	Short paper deadline.|
 |Feb 27-March 3 2023|	WSDM Cup conference presentation in person for top 3 teams on each sub-task.|
