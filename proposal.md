@@ -86,7 +86,7 @@ The [unigram_dict_0510_tokens.txt](https://drive.google.com/file/d/1HZ7l7UDMH9Wv
 
 |Event|Complete Date|
 |:---|:---|
-|Oct 15, 2022|	Website ready and training set available for download.|
+|Oct 18, 2022|	Website ready and training set available for download.|
 |Nov 11 2022|	Intermediate test set release and intermediate submission starts.|
 |Dec 11 2022| Intermediate submission ends.|
 |Dec 16 2022| Intermediate leaderboard result announcement.|
