@@ -1,6 +1,5 @@
-# Competition is lanuched at:
-##  [unbiased learning](https://aistudio.baidu.com/aistudio/competition/detail/534/0/introduction)
-##  [pre-training](https://aistudio.baidu.com/aistudio/competition/detail/536/0/introduction)
+# Competition is now kicked off. The page will be updated immediately.
+The compeition is available at [Unbiased Learning](https://aistudio.baidu.com/aistudio/competition/detail/534/0/introduction) and [Pre-Training](https://aistudio.baidu.com/aistudio/competition/detail/536/0/introduction).
 
 
 # Challenge Introduction
